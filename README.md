@@ -7,6 +7,6 @@ Technologies used:
 -Bootstrap
 <br>
 The three images below show the start of the game, your points going up as images are clicked and what happens when you click on an image twice.
-![ExampleImage](/public/assets/images/clickyExample.png)
-![ExampleImage](/public/assets/images/clickyExample1.png)
-![ExampleImage](/public/assets/images/clickyExample2.png)
+![ExampleImage](https://github.com/myles-dewaal/clicky-game/blob/master/public/assets/images/clickyExample.PNG)
+![ExampleImage](https://github.com/myles-dewaal/clicky-game/blob/master/public/assets/images/clickyExample2.PNG)
+![ExampleImage](https://github.com/myles-dewaal/clicky-game/blob/master/public/assets/images/clickyExample3.PNG)

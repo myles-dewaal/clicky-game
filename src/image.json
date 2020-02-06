@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "imageUrl": "/assets/images/catdog.jpg",
+        "imageUrl": "process.env.APP_URL/assets/images/catdog.jpg",
         "clicked": false,
         "name": "image1"
     },

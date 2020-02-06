@@ -7,7 +7,7 @@
     },
     {
         "id": 2,
-        "imageUrl": "/assets/images/jerry.png",
+        "imageUrl": "./assets/images/jerry.png",
         "clicked": false,
         "name": "image2"
     },

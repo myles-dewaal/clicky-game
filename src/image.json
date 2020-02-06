@@ -43,7 +43,7 @@
     },
     {
         "id": 8,
-        "imageUrl": "/assets/images/sheen.jpg",
+        "imageUrl": "./assets/images/sheen.jpg",
         "clicked": false,
         "name": "image8"
     },

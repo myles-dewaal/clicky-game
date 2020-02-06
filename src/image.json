@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "imageUrl": "process.env.APP_URL/assets/images/catdog.jpg",
+        "imageUrl": "./assets/images/catdog.jpg",
         "clicked": false,
         "name": "image1"
     },
@@ -13,31 +13,31 @@
     },
     {
         "id": 3,
-        "imageUrl": "/assets/images/patrick.jpg",
+        "imageUrl": "./assets/images/patrick.jpg",
         "clicked": false,
         "name": "image3"
     },
     {
         "id": 4,
-        "imageUrl": "/assets/images/popeye.jpg",
+        "imageUrl": "./assets/images/popeye.jpg",
         "clicked": false,
         "name": "image4"
     },
     {
         "id": 5,
-        "imageUrl": "/assets/images/sandy.jpg",
+        "imageUrl": "./assets/images/sandy.jpg",
         "clicked": false,
         "name": "image5"
     },
     {
         "id": 6,
-        "imageUrl": "/assets/images/scooby.png",
+        "imageUrl": "./assets/images/scooby.png",
         "clicked": false,
         "name": "image6"
     },
     {
         "id": 7,
-        "imageUrl": "/assets/images/shaggy.jpg",
+        "imageUrl": "./assets/images/shaggy.jpg",
         "clicked": false,
         "name": "image7"
     },
@@ -49,13 +49,13 @@
     },
     {
         "id": 9,
-        "imageUrl": "/assets/images/tom.jpg",
+        "imageUrl": "./assets/images/tom.jpg",
         "clicked": false,
         "name": "image9"
     },
     {
         "id": 10,
-        "imageUrl": "/assets/images/tommy.jpg",
+        "imageUrl": "./assets/images/tommy.jpg",
         "clicked": false,
         "name": "image10"
     }
